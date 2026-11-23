@@ -20,6 +20,5 @@ To build a workflow with the included data, ask:
 
 The [instructor playbook](teach-practical-ai/references/instructor-playbook.md) has suggested session plans and a grading rubric. The [practice kit](teach-practical-ai/references/practice-kit.md) contains fictional examples and expected results.
 
-## Curriculum source
 
-The lesson sequence follows 40 video topics visible in the public outline for Zero to Infinity with AI. The teaching notes, exercises, sample data, and project blueprints were written for this independent guide. [Public course outline](https://levelup.nagrawal.com/course/zero2infinitywithai#overview)
+
